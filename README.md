@@ -1,11 +1,11 @@
 ## Demo code for:
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/YangLiuqing-add/SLKNet?style=plastic)    
-![GitHub stars](https://img.shields.io/github/stars/YangLiuqing-add/SLKNet?style=social)
-![GitHub followers](https://img.shields.io/github/followers/SLKNet?style=social)
-![GitHub forks](https://img.shields.io/github/forks/YangLiuqing-add/SLKNet?style=social)
-![GitHub watchers](https://img.shields.io/github/watchers/YangLiuqing-add/SLKNet?style=social)
+![GitHub last commit](https://img.shields.io/github/last-commit/YangLiuqing-add/MANet?style=plastic)    
+![GitHub stars](https://img.shields.io/github/stars/YangLiuqing-add/MANet?style=social)
+![GitHub followers](https://img.shields.io/github/followers/MANet?style=social)
+![GitHub forks](https://img.shields.io/github/forks/YangLiuqing-add/MANet?style=social)
+![GitHub watchers](https://img.shields.io/github/watchers/YangLiuqing-add/MANet?style=social)
 ![Twitter Follow](https://img.shields.io/twitter/follow/YangLiuqing-add?style=social)
 
 **Interpretable unsupervised learning framework for multi-dimensional erratic and random noise attenuation**
