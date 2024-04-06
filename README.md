@@ -39,7 +39,7 @@ BibTeX:
 ------------------    
 ## Dependence Packages
 * Tensforflow-gpu: 1.9.0
-* numpy: 1.15.5 
+* numpy: 1.15.4 
 * Keras: 2.2.5
 * GPU: GeForce RTX 1050 Ti
 -------------------   
